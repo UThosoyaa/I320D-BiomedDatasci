@@ -213,3 +213,4 @@ pip-delete-this-directory.txt
 *.manifest
 *.spec
 Annotations
+*.csv
